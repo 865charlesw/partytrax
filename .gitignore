@@ -1,0 +1,5 @@
+# avoid accidentally checking copyrighted stuff in to git
+tracks/
+
+# spleeter likes to save its models in the working directory
+pretrained_models/
